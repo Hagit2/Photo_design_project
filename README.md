@@ -1,2 +1,2 @@
-# Photo_design_project
+# Photo design project
 Image design and editing software
