@@ -1,5 +1,5 @@
 # Photo design project
-Image design and editing software
+Image design and editing software used with cv2 & Tikner
 
 User Interface:
 
