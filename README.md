@@ -5,7 +5,7 @@ User Interface:
 
 ![צילום מסך 2024-06-10 004545](https://github.com/Hagit2/Photo_design_project/assets/147550225/ff271fff-34a2-46b2-bb5b-1860ac6be65d)
 
-The picture before the design:
+The image before design:
 
 ![Image](https://github.com/Hagit2/Photo_design_project/assets/147550225/51bb2091-73bb-47f4-b234-bc5de664251e)
 
